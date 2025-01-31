@@ -1,0 +1,10 @@
+{
+    "port":9999,
+    "host":"localhost",
+    "serverport":3306,
+    "database":"demo1",
+    "user":"W1_86802_Aman",
+    "password":"manager",
+    "secretKey":"1~}6K$IfnBgO,r5",
+    "secretkeycustomer":"O94uolBKi6zLZ8FBx4JIkQAbgcx13D0j"
+}
